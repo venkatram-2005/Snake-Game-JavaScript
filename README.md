@@ -34,6 +34,5 @@ A simple yet engaging Snake game built using **HTML5 Canvas**, **Vanilla JavaScr
 ```bash
 snake-game/
 ├── index.html         # HTML structure
-├── style.css          # Game styling
 ├── snake.js           # Game logic
 └── README.md          # You're here!
