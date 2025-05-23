@@ -7,7 +7,6 @@ A simple yet engaging Snake game built using **HTML5 Canvas**, **Vanilla JavaScr
 ## 🎮 Features
 
 - ✅ Smooth keyboard controls (arrow keys)
-- ✅ Curved snake body (using circular segments)
 - ✅ Apples with random colors
 - ✅ Score tracking
 - ✅ Screen edge wrapping (infinite playfield)
@@ -15,10 +14,10 @@ A simple yet engaging Snake game built using **HTML5 Canvas**, **Vanilla JavaScr
 
 ---
 
-## 🚀 Demo
+## 🚀 Live Demo
 
-You can try the live demo here:  
-👉 [Coming Soon – Deployed on Vercel](https://your-vercel-url.vercel.app)
+🔗 Play it now:  
+👉 [snake-game-javascript-gamma.vercel.app](https://snake-game-javascript-gamma.vercel.app)
 
 ---
 
